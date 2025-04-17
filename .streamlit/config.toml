@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1E90FF"               # Dodger blue for buttons & highlights
+backgroundColor = "#0F1117"            # Near black background
+secondaryBackgroundColor = "#1A1D24"   # Slightly lighter for cards/sections
+textColor = "#FAFAFA"                  # Light gray/white text
+font = "sans serif"
