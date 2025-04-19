@@ -1,9 +1,9 @@
 # Multiple-Disease-Prediction
-[//]: # (Hello welcome to my project 
-  This project is already uploaded to my GitHub https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django.git
-)
 
-![iStock-1349355855](https://github.com/vishal815/-Stock-market-Prediction-with-Machine-Learning-Django/assets/83393190/c8d3869e-363c-4b95-bf4c-2462f8172519)
+## (Hello welcome to my project This project is uploaded to my GitHub https://github.com/Abhijeet-DSAI/Multiple-Disease-Prediction )
+
+![image](https://github.com/user-attachments/assets/2fdaefd8-d2b2-4b3e-9a32-b8e7250d62c5)
+
 
 ## Introduction
 <p>
@@ -73,15 +73,16 @@ venv\Scripts\activate
 ```
 
 ## Output Screen-shots:
-Home page displaying Diabetes Prediction using ML
+
+## Home page displaying Diabetes Prediction using ML
 
 ![image](https://github.com/user-attachments/assets/1f209011-45a5-40f2-80f9-482ec6a76c4d)
 
-page displaying Heart Disease Prediction using ML
+## page displaying Heart Disease Prediction using ML
 
 ![image](https://github.com/user-attachments/assets/8dcaca9b-50cd-4e85-8037-2ca527a44239)
 
-page displaying Parkinson's Disease Prediction using ML
+## page displaying Parkinson's Disease Prediction using ML
 
 ![image](https://github.com/user-attachments/assets/3581d5fc-0d8d-4daf-95bb-0ec6e4356718)
 
