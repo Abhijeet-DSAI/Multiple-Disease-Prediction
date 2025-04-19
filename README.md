@@ -93,4 +93,8 @@ With a simple and interactive interface, the app provides instant predictions an
 By integrating reliable algorithms and clean data visualization, this tool serves as a preliminary health checker for individuals and healthcare providers alike.
 It bridges the gap between AI and preventive healthcare, ensuring better decision-making and timely consultations.
 
+## Author
+
+- [Abhijeet Prakash](https://www.linkedin.com/in/abhijeet-prakash-04aa65237/)
+  
 ## Thank you!
